@@ -48,8 +48,9 @@ This project is licensed under the Hooyar Lotfy Custom License – see the [LICE
 
 ## Contact
 Created with ❤️ by Hooyar Lotfy.  
-- Website: [https://hooyartech.me/](https://hooyartech.me/)  
-- GitHub: [your-github-username](https://github.com/yourusername)  
-- Email: [your-email@example.com]  
+- Linkedin: [Linkedin](https://www.linkedin.com/in/hooyarlotfy)  
+- Website: [https://hooyartech.me/](https://hooyartech.me)  
+- GitHub: [HooyarLotfy](https://github.com/HooyarLotfy)  
+- Email: [robin.hooyar@gmail.com]  
 
 Let's build something epic together! 🌟
