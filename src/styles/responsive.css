@@ -1,0 +1,123 @@
+/* Responsive Utilities for Portfolio Project */
+
+/* General Responsive Fixes */
+@media (max-width: 768px) {
+  /* Fix for scrolling issues on mobile */
+  html,
+  body {
+    overflow-x: hidden;
+    position: relative;
+    height: auto;
+    width: 100%;
+  }
+
+  /* Better padding for small screens */
+  .container {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+}
+
+/* Fix text overflow issues on small screens */
+@media (max-width: 640px) {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    word-break: break-word;
+  }
+
+  /* Fix padding in cards */
+  .p-6 {
+    padding: 1rem !important;
+  }
+
+  .p-8 {
+    padding: 1.5rem !important;
+  }
+}
+
+/* Fix modal content height on mobile */
+@media (max-width: 640px) {
+  .h-\[90vh\] {
+    height: 80vh !important;
+  }
+
+  /* Improve modal content scrolling */
+  .modal-content-container {
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/* Fix gradient text rendering on mobile */
+@media (max-width: 640px) {
+  .bg-clip-text {
+    -webkit-background-clip: text;
+    background-clip: text;
+  }
+}
+
+/* Fix specific component issues on mobile */
+@media (max-width: 480px) {
+  /* Smaller padding in grids */
+  .gap-6 {
+    gap: 0.75rem !important;
+  }
+
+  /* Adjust yin yang size */
+  .yin-yang-container svg {
+    max-width: 200px;
+    max-height: 200px;
+  }
+
+  /* Make sure titles don't overflow */
+  .font-space-grotesk {
+    font-size: clamp(1.5rem, 5vw, 2.25rem) !important;
+  }
+
+  /* Better spacing for mobile */
+  .py-20 {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+  }
+
+  /* Better button sizing on mobile */
+  .px-6 {
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+  }
+}
+
+/* Make the portfolio grid single column on small screens */
+@media (max-width: 640px) {
+  .md\:grid-cols-2 {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* Improve navbar on mobile */
+@media (max-width: 768px) {
+  .navbar-container {
+    padding: 0.75rem !important;
+  }
+
+  /* Improve scrolling for modals on mobile */
+  .modal-content-container {
+    touch-action: pan-y !important;
+    height: auto !important;
+    max-height: calc(80vh - 180px) !important;
+  }
+
+  /* Better typography scaling for mobile */
+  h1 {
+    font-size: clamp(2rem, 8vw, 3rem) !important;
+  }
+  h2 {
+    font-size: clamp(1.75rem, 6vw, 2.5rem) !important;
+  }
+  h3 {
+    font-size: clamp(1.25rem, 5vw, 1.75rem) !important;
+  }
+}
