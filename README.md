@@ -1,6 +1,5 @@
 # Yin-Yang Portfolio: A Modern Animated Minimalistic Masterpiece 🌗✨
 
-![Yin-Yang Portfolio Screenshot](https://via.placeholder.com/1200x600?text=Yin+Yang+Portfolio+Demo) <!-- Replace with actual screenshot URL -->
 
 ## About the Project
 Welcome to the **Yin-Yang Portfolio** – the ultimate fusion of light and dark, creativity and code! 🌑🌕 This isn't just a portfolio; it's a symphony of modern design and cutting-edge tech, embodying the yin-yang philosophy of balance: sleek minimalism meets explosive animations, SSR efficiency dances with React's reactivity. Built for developers, designers, and dreamers, this project showcases your skills in a way that's hypnotically engaging and ridiculously professional. Whether you're a full-stack wizard like me (Hooyar Lotfy) or just dipping your toes into web dev, this template will elevate your online presence to god-tier levels! 🚀
