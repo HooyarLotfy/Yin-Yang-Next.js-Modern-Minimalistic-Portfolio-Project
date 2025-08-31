@@ -27,7 +27,7 @@ Check it out live at: [https://hooyartech.me/](https://hooyartech.me/) 🌐
 (Hosted on Vercel/Netlify – deploy your own in minutes!)
 
 ## Installation & Setup
-1. **Clone the Repo**:git clone https://github.com/yourusername/yin-yang-portfolio.git
+1. **Clone the Repo**:git clone https://github.com/HooyarLotfy/Yin-Yang-Next.js-Modern-Minimalistic-Portfolio-Project.git
 cd yin-yang-portfolio
 **Install Dependencies**:
 npm install
